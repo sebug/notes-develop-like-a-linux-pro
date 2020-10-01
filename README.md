@@ -35,3 +35,16 @@ File system is fast, faster than MacOS in his opinion
 
 Also nice: kubectl still in there
 
+# Second Talk: Project Syn
+
+Why manage so many Kubernetes clusters?
+
+Git repository per cluster
+
+Uses quite a lot of tools
+
+- Argo CD
+- Kapitan
+
+https://syn.tools/syn/tutorials/getting-started.html
+
